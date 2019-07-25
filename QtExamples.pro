@@ -2,4 +2,5 @@ TEMPLATE = subdirs
 
 SUBDIRS = \
     StopWatch \
-    StringRemove
+    StringRemove \
+    TextEditor
